@@ -2,7 +2,7 @@
 
 Ein automatischer Newsletter-Generator, der täglich die wichtigsten Datenschutz-News sammelt, mit KI zusammenfasst und per E-Mail versendet.
 
-> **🤖 Transparenz-Hinweis:** Dieses Projekt wurde größtenteils in Zusammenarbeit mit Claude (Anthropic) entwickelt. Die Idee stammt von mir (Achim Barczok), aber der Code, die Struktur und viele Features entstanden durch intensive Kollaboration mit der KI. Ein schönes Beispiel dafür, wie Mensch und KI gemeinsam produktiv sein können! 
+> **🤖 Transparenz-Hinweis:** Dieses Projekt wurde größtenteils in Zusammenarbeit mit Claude (Anthropic) entwickelt. Der Code, die Struktur und viele Features entstanden durch intensive Kollaboration mit der KI.
 
 ## ✨ Features
 
@@ -157,18 +157,5 @@ Bitte öffne ein [Issue](https://github.com/achimbarczok/artificial-newsletter/i
 - Bug Reports
 - Feature Requests  
 - Fragen zur Nutzung
-
----
-
-## 🤖 Über die Entstehung
-
-Dieses Projekt ist ein echtes **Human-AI Collaboration** Beispiel:
-
-- **💡 Idee & Vision:** Achim Barczok
-- **🛠️ Entwicklung:** Gemeinsam mit Claude (Anthropic)
-- **🎯 Produktivität:** Was normalerweise Tage dauert, entstand in wenigen Stunden
-- **📚 Lerneffekt:** Zeigt das Potenzial von KI-assistierter Softwareentwicklung
-
-**Fun Fact:** Sogar dieses README wurde größtenteils von Claude geschrieben! 😄
 
 **Erstellt mit ❤️ und Claude AI**
