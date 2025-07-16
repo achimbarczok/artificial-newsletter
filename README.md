@@ -158,4 +158,4 @@ Bitte öffne ein [Issue](https://github.com/achimbarczok/artificial-newsletter/i
 - Feature Requests  
 - Fragen zur Nutzung
 
-**Erstellt mit ❤️ und Claude AI**
+**Erstellt mit Claude AI**
