@@ -1,0 +1,24 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+config.py
+.DS_Store
+*.log
+newsletter.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.Trash-*
+
+# Backup files
+*.bak
+*~

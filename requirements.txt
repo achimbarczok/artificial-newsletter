@@ -1,0 +1,6 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+feedparser==6.0.10
+anthropic==0.40.0
+lxml==4.9.3
+python-dateutil==2.8.2
